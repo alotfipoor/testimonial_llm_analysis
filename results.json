@@ -1,0 +1,213 @@
+[
+    {
+        "story_id": "0",
+        "json_error": "Invalid JSON in response"
+    },
+    {
+        "story_id": "1",
+        "drivers": [
+            "Data literacy",
+            "Digital transformation of Kuwait"
+        ],
+        "imp_strategies": [
+            "Hackathons for customers and citizens to gain data literacy",
+            "Building a data literacy program within the bank",
+            "Extending data literacy skills to the community through datathon"
+        ],
+        "challenges": [
+            {
+                "challenge": "Initial focus on business analysts, then rolling out data literacy across the entire bank",
+                "solution": "Ensuring employees in all departments have correct concepts on data and tools"
+            }
+        ],
+        "monetization": [
+            "Self-service access to data is empowering data and business analysts, reducing bottlenecks"
+        ],
+        "collaboration": [
+            "Tableau helped centralize analytics into one place, enabling everyone to look for insights in the same place"
+        ],
+        "mobile": {
+            "dashboard": null
+        }
+    },
+    {
+        "story_id": "2",
+        "drivers": [
+            "Data sharing, presentation, output and understanding",
+            "Speed of development",
+            "Flexibility to link to lots of different business sources"
+        ],
+        "imp_strategies": [
+            "Tableau implementation",
+            "Standardized dashboards and templates creation"
+        ],
+        "challenges": [
+            {
+                "challenge": "Siloed nature of reports",
+                "addressed": "By implementing Tableau, which allowed for easy data sharing and presentation"
+            },
+            {
+                "challenge": "Difficulty in getting key information out to everyone who needed it",
+                "addressed": "By creating standardized dashboards and templates"
+            }
+        ],
+        "monetization": [
+            "Improved patient care through better data quality"
+        ],
+        "collaboration": [
+            "Regular drop-in sessions for new users",
+            "Tableau Champions in various departments"
+        ],
+        "mobile": {
+            "dashboard": false
+        }
+    },
+    {
+        "story_id": "3",
+        "drivers": [
+            "electrification",
+            "automation"
+        ],
+        "imp_strategies": [
+            "giving employees access to the right insights, at the right time"
+        ],
+        "challenges": [
+            {
+                "challenge": "making better informed decisions",
+                "addressed": "by giving employees access to the right insights, at the right time"
+            }
+        ],
+        "monetization": [],
+        "collaboration": [
+            "promoting team collaboration and data-driven decision-making within its organization"
+        ],
+        "mobile": [
+            "no information provided"
+        ]
+    },
+    {
+        "story_id": "4",
+        "drivers": [
+            "building closer and more effective relationships with stakeholders",
+            "improving margins"
+        ],
+        "imp_strategies": [
+            "using Tableau to build data-driven insights"
+        ],
+        "challenges": [
+            {
+                "challenge": "initial resistance to change",
+                "addressed": "education and training"
+            },
+            {
+                "challenge": "data quality issues",
+                "addressed": "data cleansing and validation"
+            }
+        ],
+        "monetization": [
+            "improved margins through better decision-making"
+        ],
+        "collaboration": [
+            "promoting team collaboration through data-driven insights"
+        ],
+        "mobile": false
+    },
+    {
+        "story_id": "5",
+        "json_error": "Invalid JSON in response"
+    },
+    {
+        "story_id": "6",
+        "drivers": [
+            "Rapid growth",
+            "Multiple acquisitions",
+            "Disparate data environments"
+        ],
+        "imp_strategies": [
+            "Breaking down data silos",
+            "Creating a powerful new culture where employees can self-serve their own analytics needs",
+            "Using Tableau to transform into a fully data-driven company"
+        ],
+        "challenges": [
+            {
+                "challenge": "Data silos",
+                "addressed_by": "Tableau's unified platform"
+            },
+            {
+                "challenge": "Manual data reporting",
+                "addressed_by": "Tableau's automation features"
+            }
+        ],
+        "monetization": [
+            "Improved decision making",
+            "Faster time to insight"
+        ],
+        "collaboration": [
+            "Single unified platform for all employees",
+            "Increased self-service analytics",
+            "35 Tableau creators and explorers in all departments"
+        ],
+        "mobile": {
+            "dashboard_usage": "Not mentioned"
+        }
+    },
+    {
+        "story_id": "7",
+        "drivers": [
+            "Decentralized approach",
+            "Data warehouse with Teradata",
+            "Intuitive data visualization tool"
+        ],
+        "imp_strategies": [
+            "Infotopics' guidance for foundation, installation, and training",
+            "Distributed licenses to analysts",
+            "Training and assistance by Infotopics"
+        ],
+        "challenges": [
+            {
+                "challenge": "Centralized control",
+                "addressed": "Introduced an overall management system"
+            },
+            {
+                "challenge": "Data accessibility",
+                "addressed": "Made data available for everyone"
+            }
+        ],
+        "monetization": [
+            "Increased sales during the COVID-19 crisis"
+        ],
+        "collaboration": [
+            "Created a KPI handbook with definitions and responsibilities",
+            "Developed a collaborative platform within an app"
+        ],
+        "mobile": {
+            "dashboard": true,
+            "app": "Specifically developed for this purpose"
+        }
+    },
+    {
+        "story_id": "8",
+        "drivers": [
+            "personal contact and communication",
+            "importance of relationships with customers, members and employees"
+        ],
+        "imp_strategies": [
+            "structured online questionnaire",
+            "Tableau for analysis and dashboard creation"
+        ],
+        "challenges": [
+            "evaluation time",
+            "addressed through automation and professionalization with Tableau"
+        ],
+        "monetization": [
+            "none mentioned in the testimonial"
+        ],
+        "collaboration": [
+            "involving future users in development of new dashboards",
+            "regularly collecting status reports from leadership for an overview of internal situation"
+        ],
+        "mobile": [
+            "yes, dashboard is accessible on mobile apps"
+        ]
+    }
+]

@@ -1,0 +1,139 @@
+{
+  "categories": [
+    {
+      "name": "Operational Efficiency",
+      "drivers": [
+        "Improve operational efficiency",
+        "Reduce operational costs",
+        "Streamline operations",
+        "Automate processes",
+        "Enhance productivity",
+        "Optimize operations",
+        "Increase efficiency and productivity",
+        "Eliminate manual processes",
+        "Enable better decision making",
+        "Reduce time-consuming tasks"
+      ]
+    },
+    {
+      "name": "Data Management and Integration",
+      "drivers": [
+        "Centralize data",
+        "Integrate data from multiple sources",
+        "Create a single source of truth",
+        "Ensure data consistency and integrity",
+        "Improve data accessibility and understanding",
+        "Standardize data management",
+        "Consolidate data",
+        "Enable real-time data access",
+        "Reduce data silos",
+        "Improve data governance"
+      ]
+    },
+    {
+      "name": "Scalability and Flexibility",
+      "drivers": [
+        "Enhance scalability",
+        "Enable growth and expansion",
+        "Provide flexible solutions",
+        "Improve system performance",
+        "Handle increasing data loads",
+        "Achieve seamless scalability",
+        "Support rapid growth",
+        "Increase system flexibility",
+        "Ensure future-proofing"
+      ]
+    },
+    {
+      "name": "Cost Efficiency",
+      "drivers": [
+        "Reduce costs",
+        "Optimize cost management",
+        "Improve cost efficiency",
+        "Lower total cost of ownership",
+        "Financial savings",
+        "Reduce infrastructure costs",
+        "Avoid high maintenance costs",
+        "Minimize operational expenses"
+      ]
+    },
+    {
+      "name": "Customer Experience and Engagement",
+      "drivers": [
+        "Improve customer experience",
+        "Enhance customer engagement",
+        "Provide personalized services",
+        "Increase customer satisfaction",
+        "Boost customer retention",
+        "Improve customer insights",
+        "Deliver better customer interactions",
+        "Optimize customer touchpoints"
+      ]
+    },
+    {
+      "name": "Data-Driven Decision Making",
+      "drivers": [
+        "Enable data-driven decision making",
+        "Provide actionable insights",
+        "Improve strategic planning",
+        "Enhance real-time analytics",
+        "Support data-driven culture",
+        "Deliver meaningful data insights",
+        "Promote data transparency",
+        "Increase decision-making accuracy"
+      ]
+    },
+    {
+      "name": "Innovation and Modernization",
+      "drivers": [
+        "Drive digital transformation",
+        "Adopt modern technologies",
+        "Innovate business processes",
+        "Stay ahead of technological trends",
+        "Support continuous innovation",
+        "Future-proof infrastructure",
+        "Harness new capabilities",
+        "Modernize IT systems"
+      ]
+    },
+    {
+      "name": "Compliance and Security",
+      "drivers": [
+        "Ensure regulatory compliance",
+        "Enhance data security",
+        "Protect sensitive data",
+        "Meet industry standards",
+        "Improve cybersecurity",
+        "Secure data management",
+        "Achieve compliance goals",
+        "Mitigate security risks"
+      ]
+    },
+    {
+      "name": "Employee Empowerment and Collaboration",
+      "drivers": [
+        "Improve employee experience",
+        "Enhance team collaboration",
+        "Facilitate remote work",
+        "Increase workforce productivity",
+        "Enable self-service capabilities",
+        "Support employee development",
+        "Strengthen internal communication",
+        "Improve task management"
+      ]
+    },
+    {
+      "name": "Environmental and Sustainability Goals",
+      "drivers": [
+        "Drive sustainability initiatives",
+        "Reduce carbon footprint",
+        "Support environmental goals",
+        "Promote sustainable business practices",
+        "Ensure energy efficiency",
+        "Implement green technologies",
+        "Meet sustainability standards",
+        "Enhance resource management"
+      ]
+    }
+  ]
+}

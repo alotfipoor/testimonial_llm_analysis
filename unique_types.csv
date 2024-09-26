@@ -1,0 +1,543 @@
+industry,count
+construction,683107
+it services and it consulting,651987
+advertising services,617887
+business consulting and services,508608
+real estate,471242
+retail,436774
+software development,406244
+financial services,356450
+hospitals and health care,303721
+"technology, information and internet",297403
+wellness and fitness services,250817
+hospitality,220073
+non-profit organizations,218232
+professional training and coaching,214756
+medical practices,200250
+restaurants,190131
+information technology & services,185102
+education administration programs,184312
+architecture and planning,181743
+accounting,179601
+design services,175228
+"appliances, electrical, and electronics manufacturing",172042
+food and beverage services,171347
+events services,151879
+motor vehicle manufacturing,151611
+consumer services,149383
+staffing and recruiting,146454
+legal services,143216
+media production,142358
+individual and family services,141891
+civic and social organizations,141868
+law practice,139800
+machinery manufacturing,139712
+spectator sports,134897
+insurance,133140
+higher education,131124
+retail apparel and fashion,129587
+industrial machinery manufacturing,127430
+wholesale,123604
+entertainment providers,122591
+telecommunications,116131
+travel arrangements,114390
+human resources services,113159
+environmental services,112426
+manufacturing,111906
+oil and gas,108234
+"transportation, logistics, supply chain and storage",103726
+food and beverage manufacturing,99169
+facilities services,99109
+truck transportation,95804
+marketing services,91301
+mining,87355
+primary and secondary education,85943
+civil engineering,85910
+e-learning providers,83996
+book and periodical publishing,83189
+photography,82851
+graphic design,78829
+government administration,78719
+investment management,78606
+"health, wellness & fitness",76090
+farming,75382
+research services,74922
+public relations and communications services,72122
+wholesale building materials,70972
+textile manufacturing,70155
+mental health care,66790
+printing services,66342
+pharmaceutical manufacturing,65695
+chemical manufacturing,64523
+renewable energy semiconductor manufacturing,63438
+musicians,63077
+medical equipment manufacturing,62982
+furniture and home furnishings manufacturing,62335
+education,59488
+security and investigations,58187
+international trade and development,56869
+education management,56845
+religious institutions,56659
+non-profit organization management,55785
+online audio and video media,55116
+information services,51980
+broadcast media production and distribution,51912
+food & beverages,51683
+retail office equipment,51414
+design,49384
+wholesale import and export,49255
+personal care product manufacturing,48959
+"movies, videos, and sound",48524
+utilities,48394
+automotive,47804
+venture capital and private equity principals,46359
+performing arts,44813
+writing and editing,43579
+banking,43322
+biotechnology research,43243
+automation machinery manufacturing,42772
+plastics manufacturing,41388
+retail art supplies,40735
+mechanical or industrial engineering,38392
+computer and network security,37692
+airlines and aviation,37628
+apparel & fashion,36643
+computer games,36248
+entertainment,36075
+recreational facilities,33960
+"leisure, travel & tourism",33760
+retail luxury goods and jewelry,33158
+computers and electronics manufacturing,32789
+human resources,31082
+transportation/trucking/railroad,29503
+consumer goods,29452
+food production,29391
+artists and writers,29142
+executive offices,28501
+maritime transportation,27871
+packaging and containers manufacturing,27612
+beverage manufacturing,27155
+freight and package transportation,25272
+e-learning,24642
+sporting goods manufacturing,24182
+veterinary services,24089
+market research,23970
+aviation and aerospace component manufacturing,23775
+leasing non-residential real estate,23460
+"museums, historical sites, and zoos",22901
+translation and localization,21497
+outsourcing and offshoring consulting,21336
+retail groceries,21205
+building materials,21164
+research,21124
+"technology, information and media",20873
+strategic management services,20670
+investment banking,20441
+philanthropic fundraising services,20130
+public safety,20097
+renewables & environment,19909
+newspaper publishing,19882
+music,19484
+medical device,18603
+furniture,18491
+think tanks,18442
+paper and forest product manufacturing,17154
+computer hardware manufacturing,16509
+business supplies & equipment,16351
+alternative medicine,16022
+online media,15984
+engineering services,15314
+"glass, ceramics and concrete manufacturing",15283
+political organizations,15178
+fundraising,15037
+cosmetics,14563
+computer networking products,14308
+internet publishing,14058
+law enforcement,13924
+defense and space manufacturing,13469
+health and human services,13280
+international affairs,12980
+import & export,12847
+arts & crafts,12459
+industrial automation,12383
+government relations services,12128
+warehousing and storage,11932
+biotechnology,11857
+capital markets,11761
+animation and post-production,11662
+interior design,10733
+consumer electronics,10240
+semiconductor manufacturing,9536
+public policy offices,9510
+luxury goods & jewelry,9505
+retail health and personal care products,9128
+gambling facilities and casinos,8740
+administration of justice,8409
+fine art,8325
+wine & spirits,8268
+sports teams and clubs,8166
+wireless services,8145
+it system custom software development,8096
+shipbuilding,8007
+libraries,7987
+packaging & containers,7844
+solar electric power generation,7645
+maritime,7568
+services for renewable energy,7456
+professional services,7377
+internet marketplace platforms,7322
+ranching,7133
+blockchain services,6878
+aviation & aerospace,6836
+veterinary,6760
+social networking platforms,6737
+sporting goods,6462
+commercial real estate,6433
+fisheries,6344
+armed forces,6214
+building construction,6175
+retail motor vehicles,5994
+outsourcing/offshoring,5721
+food and beverage retail,5482
+paper & forest products,5466
+real estate agents and brokers,5420
+philanthropy,5185
+public health,5132
+data infrastructure and analytics,5087
+computer hardware,5079
+online and mail order retail,4977
+program development,4929
+dairy product manufacturing,4867
+community services,4646
+alternative dispute resolution,4618
+"agriculture, construction, mining machinery manufacturing",4577
+nanotechnology research,4427
+technical and vocational training,4396
+mobile gaming apps,4378
+sports and recreation instruction,4336
+industry associations,4287
+internet news,4236
+home health care services,4077
+computer networking,4073
+fabricated metal products,4001
+security systems services,3994
+vehicle repair and maintenance,3979
+renewable energy power generation,3872
+insurance agencies and brokerages,3839
+railroad equipment manufacturing,3792
+media and telecommunications,3735
+operations consulting,3735
+defense & space,3714
+business content,3642
+wholesale food and beverage,3634
+retail furniture and home furnishings,3594
+repair and maintenance,3557
+government relations,3529
+blogs,3518
+holding companies,3318
+commercial and industrial machinery maintenance,3280
+warehousing,3277
+movies and sound recording,3126
+medical and diagnostic laboratories,3068
+apparel manufacturing,3038
+dentists,2979
+pet services,2950
+animation,2929
+landscaping services,2864
+hotels and motels,2856
+semiconductors,2755
+professional organizations,2669
+tobacco manufacturing,2620
+"electric power transmission, control, and distribution",2603
+book publishing,2547
+administrative and support services,2474
+residential building construction,2472
+real estate and equipment rental services,2470
+motor vehicle parts manufacturing,2413
+public policy,2387
+hvac and refrigeration equipment manufacturing,2378
+language schools,2314
+"physical, occupational and speech therapists",2303
+specialty trade contractors,2298
+electrical equipment manufacturing,2290
+janitorial services,2283
+wholesale motor vehicles and parts,2217
+mobile computing software products,2185
+investment advice,2063
+"retail appliances, electrical, and electronic equipment",2055
+fashion accessories manufacturing,2043
+personal care services,2026
+business intelligence platforms,1973
+wineries,1957
+fire protection,1955
+embedded software products,1902
+"wholesale appliances, electrical, and electronics",1874
+wood product manufacturing,1860
+electric power generation,1842
+retail art dealers,1715
+equipment rental services,1709
+electric lighting equipment manufacturing,1704
+it system data services,1693
+security guards and patrol services,1626
+"farming, ranching, forestry",1594
+space research and technology,1576
+ground passenger transportation,1563
+"oil, gas, and mining",1539
+it system design services,1526
+community development and urban planning,1521
+retail office supplies and gifts,1511
+leasing residential real estate,1493
+renewable energy equipment manufacturing,1481
+wholesale chemical and allied products,1450
+housing and community development,1437
+dairy,1390
+wholesale alcoholic beverages,1367
+waste treatment and disposal,1357
+metal treatments,1346
+commercial and service industry machinery manufacturing,1335
+caterers,1297
+"wholesale hardware, plumbing, heating equipment",1294
+wholesale machinery,1268
+"paint, coating, and adhesive manufacturing",1258
+museums,1225
+rail transportation,1196
+wholesale luxury goods and jewelry,1186
+architectural and structural metal manufacturing,1182
+horticulture,1181
+retail building materials and garden equipment,1176
+nursing homes and residential care facilities,1160
+it system training and support,1135
+child day care services,1134
+building structure and exterior contractors,1116
+desktop computing software products,1111
+agricultural chemical manufacturing,1097
+radio and television broadcasting,1090
+office furniture and fixtures manufacturing,1088
+commercial and industrial equipment rental,1084
+water supply and irrigation systems,1076
+periodical publishing,1071
+services for the elderly and disabled,1058
+waste collection,1046
+plastics and rubber product manufacturing,1039
+golf courses and country clubs,1023
+accommodation and food services,1012
+metalworking machinery manufacturing,1002
+executive search services,1001
+data security software products,991
+telephone call centers,973
+legislative offices,957
+measuring and control instrument manufacturing,925
+wholesale metals and minerals,902
+building finishing contractors,873
+footwear manufacturing,873
+"water, waste, steam, and air conditioning services",856
+physicians,847
+glass product manufacturing,844
+"bars, taverns, and nightclubs",843
+taxi and limousine services,838
+mobile food services,837
+construction hardware manufacturing,811
+sightseeing transportation,811
+conservation programs,804
+digital accessibility services,795
+"air, water, and waste program management",789
+animal feed manufacturing,786
+wholesale recyclable materials,780
+chemical raw materials manufacturing,774
+leather product manufacturing,759
+tobacco,757
+retail florists,756
+building equipment contractors,735
+baked goods manufacturing,733
+loan brokers,722
+wholesale furniture and home furnishings,721
+wholesale drugs and sundries,713
+wholesale raw farm products,713
+electronic and precision equipment maintenance,693
+household services,681
+transportation programs,674
+soap and cleaning product manufacturing,670
+forestry and logging,667
+"highway, street, and bridge construction",648
+breweries,648
+wholesale computer equipment,641
+it system operations and maintenance,636
+robotics engineering,634
+wholesale apparel and sewing supplies,621
+sound recording,612
+wholesale petroleum and petroleum products,603
+laundry and drycleaning services,602
+performing arts and spectator sports,600
+retail pharmacies,596
+fine arts schools,579
+retail books and printed news,574
+environmental quality programs,574
+audio and video equipment manufacturing,562
+funds and trusts,562
+utility system construction,557
+office administration,553
+"bed-and-breakfasts, hostels, homestays",538
+wind electric power generation,538
+household and institutional furniture manufacturing,535
+urban transit services,534
+retail recyclable materials & used merchandise,529
+climate technology product manufacturing,527
+cosmetology and barber schools,523
+consumer goods rental,523
+emergency and relief services,519
+economic programs,518
+meat products manufacturing,518
+optometrists,509
+rubber products manufacturing,456
+primary metal manufacturing,456
+vocational rehabilitation services,439
+theater companies,435
+accessible architecture and design,428
+telecommunications carriers,420
+wholesale paper products,417
+trusts and estates,407
+distilleries,403
+turned products and fastener manufacturing,402
+amusement parks and arcades,402
+dance companies,395
+utilities administration,393
+shuttles and special needs transportation services,391
+transportation equipment manufacturing,379
+engines and power transmission equipment manufacturing,375
+surveying and mapping services,373
+insurance and employee benefit funds,352
+steam and air-conditioning supply,347
+communications equipment manufacturing,343
+nonresidential building construction,338
+chiropractors,338
+seafood product manufacturing,334
+military and international affairs,326
+it system testing and evaluation,319
+retail musical instruments,318
+hospitals,315
+sugar and confectionery product manufacturing,314
+household appliance manufacturing,292
+metal ore mining,288
+credit intermediation,283
+temporary help services,266
+collection agencies,258
+courts of law,248
+climate data and analytics,244
+securities and commodity exchanges,242
+wholesale footwear,242
+fruit and vegetable preserves manufacturing,221
+housing programs,220
+personal and laundry services,212
+biomass electric power generation,208
+"boilers, tanks, and shipping container manufacturing",208
+nuclear electric power generation,206
+mattress and blinds manufacturing,201
+insurance carriers,200
+natural gas distribution,196
+satellite telecommunications,195
+ambulance services,194
+historical sites,190
+hydroelectric power generation,186
+coal mining,185
+"metal valve, ball, and roller manufacturing",177
+"claims adjusting, actuarial services",176
+flight training,172
+outpatient care centers,168
+spring and wire product manufacturing,164
+public assistance programs,156
+zoos and botanical gardens,148
+retail gasoline,148
+robot manufacturing,142
+it system installation and disposal,140
+nonmetallic mineral mining,131
+sheet music publishing,131
+abrasives and nonmetallic minerals manufacturing,121
+school and employee bus services,119
+clay and refractory products manufacturing,117
+geothermal electric power generation,115
+reupholstery and furniture repair,105
+women's handbag manufacturing,104
+subdivision of land,104
+pension funds,96
+oil extraction,95
+ranching and fisheries,94
+cutlery and handtool manufacturing,90
+postal services,89
+wholesale photography equipment and supplies,84
+fossil fuel electric power generation,82
+racetracks,76
+skiing facilities,72
+oil and coal product manufacturing,72
+pipeline transportation,67
+interurban and rural bus services,65
+footwear and leather goods repair,59
+magnetic and optical media manufacturing,54
+regenerative design,47
+correctional institutions,45
+alternative fuel vehicle manufacturing,42
+circuses and magic shows,37
+accessible hardware manufacturing,35
+lime and gypsum products manufacturing,34
+artificial rubber and synthetic fiber manufacturing,34
+natural gas extraction,33
+cable and satellite programming,33
+savings institutions,21
+secretarial schools,18
+fuel cell manufacturing,10
+family planning centers,10
+smart meter manufacturing,9
+information technology and services,5
+marketing and advertising,3
+servicios de ti y consultoría de ti,2
+internet,2
+formación profesional y coaching,1
+"teknik, information och internet",1
+arquitetura e planejamento,1
+servicios financieros,1
+finanstjenester,1
+asesoría y servicios empresariales,1
+management consulting,1
+fabricación de vehículos motorizados,1
+jasa ti dan konsultan ti,1
+individual & family services,1
+تصنيع المنسوجات,1
+proveedores de e-learning,1
+obchodní poradenství a služby,1
+computer software,1
+publishing,1
+printing,1
+it-tjenester og -rådgivning,1
+mining & metals,1
+venture capital & private equity,1
+الاستخدام والتوظيف,1
+사진,1
+serviços e consultoria de ti,1
+juridiskt arbete,1
+business supplies and equipment,1
+assurances,1
+خدمات الطباعة,1
+اتصالات,1
+hospital & health care,1
+motion pictures and film,1
+financiële diensten,1
+itサービス・itコンサルティング,1
+media audio dan video dalam talian,1
+การฝึกอบรมและการฝึกสอนทางวิชาชีพ,1
+家電、電器與電子產品製造,1
+services et conseil informatiques,1
+seguros,1
+juristische dienstleistungen,1
+machinery,1
+bildungsverwaltungsprogramme,1
+riset,1
+العقارات,1
+linie lotnicze i lotnictwo,1
+casinos y centros de apuestas,1
+it služby a it poradenství,1
+servicios de investigación,1
+logistics and supply chain,1
+otelcilik,1
+ict-services en consultancy,1
+fabrication de véhicules à moteur,1
+servicios de instalaciones,1
+transporte terrestre en camión,1
